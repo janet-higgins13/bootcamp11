@@ -1,7 +1,9 @@
 #! /usr/bin/env python
+import sqer
 import argparse
 import screed
-import sqer
+import numpy
+
 
 def main():
     parser = argparse.ArgumentParser()
